@@ -1,4 +1,4 @@
-<div style=color:red,font-weight:bold,font-size:12pt">WORK IN PROGRESS</div>
+<div style=color:red;font-weight:bold;font-size:12pt">WORK IN PROGRESS</div>
 
 ---
 
@@ -6,7 +6,7 @@
 
 <!-- ### <div align="center">Hi, I'm</div> -->
 
-<div align="center" style="color:white; font-weight:bold; font-size:32pt">&mdash;&mdash;&mdash;&mdash;&mdash; Marcel-BK &mdash;&mdash;&mdash;&mdash;&mdash;</div>
+<div align="center" style=color:white;font-weight:bold;font-size:32pt>&mdash;&mdash;&mdash;&mdash;&mdash; Marcel-BK &mdash;&mdash;&mdash;&mdash;&mdash;</div>
 
 ### <div align="center" style=color:white>Media Designer and Junior Fullstack Web & App Developer</div>
 
