@@ -11,7 +11,7 @@
 ### <div align="center" style=color:white>Media Designer and Junior Fullstack Web & App Developer</div>
 
 #
-#### <div align="center">[My Portfolio &rarr;](https://marcelbk-portfolio.netlify.app/)</div>
+#### <div align="center">[My Portfolio &rarr;](https://marcelbk.netlify.app/)</div>
 
 #
 <br>
